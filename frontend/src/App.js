@@ -1,10 +1,10 @@
 import React from 'react';
-import Weather from './components/Weather';
+import FlightSearch from './components/FlightSearch';
 
 function App() {
     return (
-        <div className="App">
-            <Weather />
+        <div>
+            <FlightSearch />
         </div>
     );
 }
